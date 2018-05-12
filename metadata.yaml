@@ -1,0 +1,31 @@
+_repo: TaraA-Mahratta-Tale_45430
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45430-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Taylor, Meadows
+    aliases:
+    - Meadows Taylor, Philip
+    - Taylor, Philip Meadows
+    birthdate: 1808
+    deathdate: 1876
+    gutenberg_agent_id: '42684'
+    url: http://www.gutenberg.org/2009/agents/42684
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Meadows_Taylor
+description: ''
+gutenberg_issued: '2014-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maratha (Indic people) -- History -- Fiction'
+- !lcc 'PR'
+- !lcsh 'India -- History -- 1526-1765 -- Fiction'
+title: 'Tara: A Mahratta Tale'
+url: http://www.gutenberg.org/ebooks/45430
